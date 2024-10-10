@@ -18,13 +18,13 @@ This test will asses you knowledge on doing a Laravel project with some WordPres
 1. Fork this repository
 2. [Docker](https://www.docker.com/)
    
-   We are using `Docker` for this test to avoid restting your local machine. When using docker, there is no need to upgrade or downgrade your tech stack version. Docker containers will handle it for you.
+   We are using `Docker` for this test to avoid version reset on your local machine. When using docker, there is no need to upgrade or downgrade your tech stack version. Docker containers will handle it for you.
 
 3. Docker Compose
    1. [Docker Compose](https://docs.docker.com/compose/install/linux/) for Ubuntu
    2. [Docker Desktop](https://www.docker.com/products/docker-desktop/) for Windows
    
-    > If you are not familiar with `Docker`, that is totally fine. You'll need to create your own public repository and share it after the test.
+  > If you are not familiar with `Docker`, that is totally fine. You'll need to create your own public repository and share it after the test.
 
 ## Phase 1: Laravel
 
@@ -78,6 +78,7 @@ We are also considering if you have a background in `WordPress`. While this is v
 1. Login on this [WordPress Admin](http://viper-test.nadescrib.com/wp-login.php)
    
    username: applicant
+
    password: Password123!
 
 2. Create a WordPress theme, no need to apply. We can view it from our end.
